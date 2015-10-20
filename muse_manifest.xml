@@ -1,0 +1,104 @@
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="upchhatrasansad.org" resolutions="1x" timestamp="1445367296395">
+  <folder name="css">
+    <file name="site_global.css" crc="3813097352"/>
+    <file name="master_a-master.css" crc="3934824823" ref="index"/>
+    <file name="index.css" crc="162843561" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="phone>index:index"/>
+    <file name="museutils.js" crc="275725342" ref="phone>index:index"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="phone>index:index"/>
+    <file name="jquery.scrolleffects.js" crc="206645848" ref="phone>index:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="phone>index:index"/>
+    <file name="pie.js" crc="3827607177" ref="phone>index:index"/>
+    <file name="webpro.js" crc="3883484123" ref="phone>index:index"/>
+    <file name="form_check.php" crc="3932029206" ref="phone>index"/>
+    <file name="form_throttle.php" crc="314685628" ref="phone>index"/>
+    <file name="form_process.php" crc="401030677" ref="phone>index"/>
+    <file name="form-u1840.php" crc="3931167943" ref="phone>index"/>
+    <file name="museredirect.js" crc="3899419633" ref="index"/>
+    <file name="musewpslideshow.js" crc="360574455" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="342093292" ref="index"/>
+    <file name="touchswipe.js" crc="4218319045" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="bkg_01.jpg" crc="4249309889" ref="phone>index"/>
+    <file name="speaker_01-u973-fr.png" crc="3807737923" ref="phone>index"/>
+    <file name="speaker_03-u971-fr.png" crc="4220311394" ref="phone>index"/>
+    <file name="speaker_02-u972-fr.png" crc="287574460" ref="phone>index"/>
+    <file name="gallery_03-u710-fr.png" crc="15474422" ref="phone>index"/>
+    <file name="gallery_02-u711-fr.png" crc="114773680" ref="phone>index"/>
+    <file name="gallery_01-u712-fr.png" crc="3862423621" ref="phone>index"/>
+    <file name="u1864-17.png" crc="532403934" ref="phone>index"/>
+    <file name="u1864-17-r.png" crc="235939021" ref="phone>index"/>
+    <file name="u1864-17-m.png" crc="235939021" ref="phone>index"/>
+    <file name="u1864-17-fs.png" crc="532403934" ref="phone>index"/>
+    <file name="checkboxuncheckedrollover.jpg" crc="3898835355" ref="phone>index"/>
+    <file name="checkboxuncheckedmousedown.jpg" crc="4019589203" ref="phone>index"/>
+    <file name="checkboxchecked.jpg" crc="3760363524" ref="phone>index"/>
+    <file name="checkboxcheckedrollover.jpg" crc="3914243265" ref="phone>index"/>
+    <file name="checkboxcheckedmousedown.jpg" crc="350609565" ref="phone>index"/>
+    <file name="arrows-mn_arrow_right.png" crc="4062137678" ref="phone>index:index"/>
+    <file name="u1786.png" crc="380377693" ref="phone>index"/>
+    <file name="u1786-r.png" crc="419685300" ref="phone>index"/>
+    <file name="u1788.png" crc="149207818" ref="phone>index"/>
+    <file name="u1788-r.png" crc="50848226" ref="phone>index"/>
+    <file name="u1790.png" crc="323754964" ref="phone>index"/>
+    <file name="u1790-r.png" crc="4088465079" ref="phone>index"/>
+    <file name="favicon.ico" crc="232199393" ref="index"/>
+    <file name="varanasi.jpg" crc="474648707" ref="index"/>
+    <file name="al6jlth8-ffqusyl2j1yyurhrggpcd9b0r0u-umcv6lr.jpg" crc="3816910150" seo="true" ref="index"/>
+    <file name="arrows-mn_close.png" crc="236761104" seo="true" ref="index"/>
+    <file name="sumitra_mahajan-u212-fr.png" crc="4264162944" ref="index"/>
+    <file name="ram_naik-u214-fr.png" crc="464096705" ref="index"/>
+    <file name="anurag-u1674-fr.png" crc="151027109" ref="index"/>
+    <file name="shreehari_borikar-u2196-fr.png" crc="4290950984" ref="index"/>
+    <file name="shaljakant-u2194-fr.png" crc="396092575" ref="index"/>
+    <file name="govindacharya-u2200-fr.png" crc="105942748" ref="index"/>
+    <file name="kailash-u2195-fr.png" crc="517612234" ref="index"/>
+    <file name="giridhari.jpg" crc="4222718035" seo="true" ref="index"/>
+    <file name="profpkpandey.jpg" crc="3797419144" seo="true" ref="index"/>
+    <file name="virendra.jpg" crc="200582988" seo="true" ref="index"/>
+    <file name="shree ganesh mishra.jpg" crc="3949188332" seo="true" ref="index"/>
+    <file name="775771_106952546152664_1594841511_o.jpg" crc="246787579" seo="true" ref="index"/>
+    <file name="op_dhankar-u2161-fr.png" crc="466143521" ref="index"/>
+    <file name="drvijay nath pandey.jpg" crc="4101754229" seo="true" ref="index"/>
+    <file name="adv rajendra pratap pandey.jpg" crc="4159588456" seo="true" ref="index"/>
+    <file name="dr hari prasad mishra.jpg" crc="67364548" seo="true" ref="index"/>
+    <file name="dr kameshwar upadhyay.jpg" crc="4062541890" seo="true" ref="index"/>
+    <file name="ved prakash singh.jpg" crc="265582932" seo="true" ref="index"/>
+    <file name="ashish.jpg" crc="4247038221" seo="true" ref="index"/>
+    <file name="aanad gopal dwivedi.jpg" crc="96050869" seo="true" ref="index"/>
+    <file name="anurag naidu.jpg" crc="381331823" seo="true" ref="index"/>
+    <file name="yash.jpg" crc="115697159" seo="true" ref="index"/>
+    <file name="shubham tiwari.jpg" crc="107621645" seo="true" ref="index"/>
+    <file name="khyati srivastava.jpg" crc="4042012608" seo="true" ref="index"/>
+    <file name="koshi.jpg" crc="3908551195" seo="true" ref="index"/>
+    <file name="niraj sharma.jpg" crc="98347840" seo="true" ref="index"/>
+    <file name="pune deepanjali 20150827_155742.jpg" crc="3795257839" seo="true" ref="index"/>
+    <file name="nagendra pandey.jpg" crc="4149693867" seo="true" ref="index"/>
+    <file name="komal gupta.jpg" crc="4058029219" seo="true" ref="index"/>
+    <file name="mohan dubey.jpg" crc="400119647" seo="true" ref="index"/>
+    <file name="navneet varshney.jpg" crc="4106337707" seo="true" ref="index"/>
+    <file name="sonam mishra.jpg" crc="4155004819" seo="true" ref="index"/>
+    <file name="avikalp shukla.jpg" crc="410659930" seo="true" ref="index"/>
+    <file name="logo bcs.jpg" crc="4224684010" seo="true" ref="index"/>
+    <file name="capture.jpg" crc="4063628369" seo="true" ref="index"/>
+    <file name="untitled-1.jpg" crc="378103440" seo="true" ref="index"/>
+    <file name="vidya logo.jpg" crc="221340436" seo="true" ref="index"/>
+    <file name="taj_mahal-u1029-4-fr.png" crc="4167015376" ref="index"/>
+    <file name="reclining-statue-of-buddha-in-kushinagar-u1032-3-fr.png" crc="12726526" ref="index"/>
+    <file name="u1774.png" crc="380377693" ref="index"/>
+    <file name="u1774-r.png" crc="419685300" ref="index"/>
+    <file name="u2959.png" crc="111924415" ref="index"/>
+    <file name="u2959-r.png" crc="350724336" ref="index"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="4154662192" ref="phone>index"/>
+      <file name="index.css" crc="4033439354" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="3850604537" seo="true" mt="1440935352069" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="4078029331" seo="true" mt="1445367258013" redirect="true"/>
+</manifest>
