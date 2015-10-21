@@ -30,7 +30,7 @@
 	position: relative;
 }
 
-#u1771-17
+#u1771-19
 {
 	background-color: transparent;
 	text-align: center;
@@ -51,7 +51,7 @@
 	font-weight: 400;
 }
 
-#u1771-5,#u1771-8,#u1771-11,#u1771-13,#u1771-15
+#u1771-5,#u1771-8,#u1771-11,#u1771-13,#u1771-15,#u1771-17
 {
 	font-size: 18px;
 	line-height: 22px;
@@ -66,8 +66,8 @@
 	background-color: transparent;
 	color: #999999;
 	font-size: 20px;
-	line-height: 24px;
 	letter-spacing: 6px;
+	line-height: 24px;
 	text-align: center;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
