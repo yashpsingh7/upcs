@@ -5,7 +5,7 @@
 	background-color: #EDEDED;
 }
 
-#u1783-4
+#u1783-3
 {
 	background-color: transparent;
 	letter-spacing: 1px;
@@ -21,10 +21,10 @@
 {
 	background-color: transparent;
 	color: #999999;
-	font-size: 13px;
+	text-align: center;
 	letter-spacing: 6px;
 	line-height: 16px;
-	text-align: center;
+	font-size: 13px;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -40,5 +40,11 @@
 #u1786:hover
 {
 	background: url("../../images/u1786-r.png") no-repeat 0px 0px;
+}
+
+#u3646,#u3649
+{
+	background-color: transparent;
+	position: relative;
 }
 

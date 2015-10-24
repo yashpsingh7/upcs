@@ -30,14 +30,14 @@
 	position: relative;
 }
 
-#u1771-19
+#u1771-20
 {
 	background-color: transparent;
 	text-align: center;
 	position: relative;
 }
 
-#u1771-2
+#u1771
 {
 	font-size: 35px;
 	line-height: 42px;
@@ -51,10 +51,20 @@
 	font-weight: 400;
 }
 
-#u1771-5,#u1771-8,#u1771-11,#u1771-13,#u1771-15,#u1771-17
+#u1771-2,#u1771-5,#u1771-8,#u1771-11,#u1771-12
 {
 	font-size: 18px;
 	line-height: 22px;
+	letter-spacing: 6px;
+	color: #999999;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+}
+
+#u1771-14,#u1771-16,#u1771-18
+{
+	font-size: 18px;
+	line-height: 18px;
 	letter-spacing: 6px;
 	color: #999999;
 	font-family: open-sans, sans-serif;
@@ -93,6 +103,12 @@
 #u1774:hover
 {
 	background: url("../images/u1774-r.png") no-repeat 0px 0px;
+}
+
+#u3631,#u3637
+{
+	background-color: transparent;
+	position: relative;
 }
 
 #u2959

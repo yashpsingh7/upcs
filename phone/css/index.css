@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000012;
-	background-color: #D25E12;
+	color: #000009;
+	background-color: #02CBBB;
 }
 
 @-ms-viewport
@@ -47,7 +47,7 @@
 
 #page_position_content
 {
-	margin-bottom: -179px;
+	margin-bottom: -144px;
 	width: 0.01px;
 }
 
@@ -66,15 +66,15 @@
 
 #u774
 {
-	z-index: 173;
+	z-index: 176;
 	min-height: 50px;
 	background-color: #FFFFFF;
 	padding-bottom: 52px;
 }
 
-#u679-4
+#u679-3
 {
-	z-index: 174;
+	z-index: 177;
 	width: 351px;
 	min-height: 32px;
 	background-color: transparent;
@@ -92,13 +92,24 @@
 
 #u774-bw
 {
-	z-index: 173;
+	z-index: 176;
 	min-height: 50px;
+}
+
+#u3643
+{
+	z-index: 180;
+	width: 351px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 18px;
+	left: 19px;
 }
 
 #u683-4
 {
-	z-index: 157;
+	z-index: 160;
 	width: 102px;
 	min-height: 44px;
 	border-style: solid;
@@ -126,7 +137,7 @@
 
 #u682-4
 {
-	z-index: 161;
+	z-index: 164;
 	width: 83px;
 	min-height: 44px;
 	border-style: solid;
@@ -145,7 +156,7 @@
 
 #u680-4
 {
-	z-index: 165;
+	z-index: 168;
 	width: 83px;
 	min-height: 44px;
 	border-style: solid;
@@ -173,7 +184,7 @@
 
 #u681-4
 {
-	z-index: 169;
+	z-index: 172;
 	width: 112px;
 	min-height: 44px;
 	border-style: solid;
@@ -218,22 +229,22 @@
 
 #u673
 {
-	z-index: 27;
+	z-index: 30;
 	min-height: 241px;
 	padding-bottom: 282px;
-	background: #1E1E1E url("../../images/varanasi.jpg") no-repeat center center;
+	background: #1E1E1E url("../../images/image-4-compressed.jpg") no-repeat center center;
 	background-size: cover;
 }
 
 #u674-8
 {
-	z-index: 28;
+	z-index: 31;
 	width: 331px;
 	min-height: 136px;
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 38px;
 	font-size: 32px;
+	color: #FFFFFF;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 89px;
@@ -242,13 +253,13 @@
 
 #u673-bw
 {
-	z-index: 27;
+	z-index: 30;
 	min-height: 241px;
 }
 
 #u1649
 {
-	z-index: 131;
+	z-index: 134;
 	width: 15px;
 	height: 16px;
 	border-style: solid;
@@ -266,7 +277,7 @@
 
 #u686
 {
-	z-index: 37;
+	z-index: 40;
 	min-height: 1179px;
 	background-color: #FFFFFF;
 	padding: 30px 34px 47px;
@@ -274,7 +285,7 @@
 
 #u3051
 {
-	z-index: 151;
+	z-index: 154;
 	width: 114px;
 	background-color: transparent;
 	margin-left: 99px;
@@ -283,7 +294,7 @@
 
 #u687-4
 {
-	z-index: 38;
+	z-index: 41;
 	width: 312px;
 	min-height: 95px;
 	background-color: transparent;
@@ -293,7 +304,7 @@
 
 #u998-9
 {
-	z-index: 122;
+	z-index: 125;
 	width: 312px;
 	min-height: 439px;
 	background-color: transparent;
@@ -308,14 +319,14 @@
 
 #u686-bw
 {
-	z-index: 37;
+	z-index: 40;
 	min-height: 1179px;
 	margin-top: 3px;
 }
 
 #u697-4
 {
-	z-index: 42;
+	z-index: 45;
 	width: 330px;
 	min-height: 37px;
 	background-color: transparent;
@@ -327,7 +338,7 @@
 
 #u973
 {
-	z-index: 119;
+	z-index: 122;
 	width: 338px;
 	height: 277px;
 	border-color: #353535;
@@ -341,7 +352,7 @@
 
 #u971
 {
-	z-index: 121;
+	z-index: 124;
 	width: 338px;
 	height: 277px;
 	border-color: #353535;
@@ -355,7 +366,7 @@
 
 #u972
 {
-	z-index: 120;
+	z-index: 123;
 	width: 338px;
 	height: 277px;
 	border-color: #353535;
@@ -369,7 +380,7 @@
 
 #u705
 {
-	z-index: 46;
+	z-index: 49;
 	min-height: 1018px;
 	background-color: #FFFFFF;
 }
@@ -387,7 +398,7 @@
 
 #u706-6
 {
-	z-index: 47;
+	z-index: 50;
 	width: 332px;
 	min-height: 37px;
 	background-color: transparent;
@@ -399,14 +410,14 @@
 
 #u707-4
 {
-	z-index: 53;
+	z-index: 56;
 	width: 114px;
 	min-height: 36px;
 	background-color: transparent;
+	letter-spacing: 0px;
 	line-height: 34px;
 	font-size: 18px;
 	text-align: left;
-	letter-spacing: 0px;
 	margin-left: 133px;
 	margin-top: 48px;
 	position: relative;
@@ -414,7 +425,7 @@
 
 #u708-33
 {
-	z-index: 57;
+	z-index: 60;
 	width: 264px;
 	min-height: 77px;
 	background-color: transparent;
@@ -431,7 +442,7 @@
 
 #u705-bw
 {
-	z-index: 46;
+	z-index: 49;
 	min-height: 1018px;
 	margin-top: 224px;
 }
@@ -444,7 +455,7 @@
 
 #u709-4
 {
-	z-index: 90;
+	z-index: 93;
 	width: 338px;
 	min-height: 42px;
 	background-color: transparent;
@@ -456,7 +467,7 @@
 
 #u3048-4
 {
-	z-index: 140;
+	z-index: 143;
 	width: 136px;
 	background-color: transparent;
 	font-family: fira-sans, sans-serif;
@@ -475,7 +486,7 @@
 
 #u3024
 {
-	z-index: 132;
+	z-index: 135;
 	width: 114px;
 	background-color: transparent;
 	position: relative;
@@ -484,7 +495,7 @@
 
 #u3036
 {
-	z-index: 136;
+	z-index: 139;
 	width: 113px;
 	background-color: transparent;
 	position: relative;
@@ -494,7 +505,7 @@
 
 #u3030
 {
-	z-index: 134;
+	z-index: 137;
 	width: 113px;
 	background-color: transparent;
 	position: relative;
@@ -504,7 +515,7 @@
 
 #u3049-3
 {
-	z-index: 144;
+	z-index: 147;
 	width: 5px;
 	background-color: transparent;
 	margin-left: 306px;
@@ -514,7 +525,7 @@
 
 #u3050-4
 {
-	z-index: 147;
+	z-index: 150;
 	width: 99px;
 	background-color: transparent;
 	font-family: fira-sans, sans-serif;
@@ -526,7 +537,7 @@
 
 #u3042
 {
-	z-index: 138;
+	z-index: 141;
 	width: 201px;
 	background-color: transparent;
 	margin-left: 90px;
@@ -542,25 +553,25 @@
 
 #u3005-3
 {
-	z-index: 94;
+	z-index: 97;
 	width: 380px;
 	min-height: 280px;
 	position: relative;
 	margin-right: -10000px;
-	background: #4C4C4C url("../../images/taj_mahal1-u3005-3-fr.png") no-repeat left center;
+	background: #4C4C4C url("../../images/image-3-compressed-u3005-3-fr.png") no-repeat left center;
 	background-color: rgba(0,0,0,0.7);
 	background-size: cover;
 }
 
 #u778-7
 {
-	z-index: 97;
+	z-index: 100;
 	width: 325px;
 	min-height: 113px;
 	background-color: transparent;
 	color: #FFFFFF;
-	letter-spacing: 5px;
 	text-align: center;
+	letter-spacing: 5px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 73px;
@@ -585,23 +596,23 @@
 
 #u712
 {
-	z-index: 26;
+	z-index: 29;
 	min-height: 145px;
-	padding-bottom: 32px;
-	background: #4C4C4C url("../../images/reclining-statue-of-buddha-in-kushinagar-u712-fr.png") no-repeat center center;
+	padding-bottom: 7px;
+	background: #4C4C4C url("../../images/image-1-compressed-u712-fr.png") no-repeat center center;
 	background-color: rgba(0,0,0,0.7);
 	background-size: cover;
 }
 
 #u780-7
 {
-	z-index: 104;
+	z-index: 107;
 	width: 358px;
 	min-height: 113px;
 	background-color: transparent;
 	color: #FFFFFF;
-	letter-spacing: 5px;
 	text-align: center;
+	letter-spacing: 5px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 32px;
@@ -637,7 +648,7 @@
 
 #u712-bw
 {
-	z-index: 26;
+	z-index: 29;
 	min-height: 145px;
 }
 
@@ -650,7 +661,7 @@
 
 #u717-4
 {
-	z-index: 112;
+	z-index: 115;
 	width: 348px;
 	min-height: 43px;
 	background-color: transparent;
@@ -662,7 +673,7 @@
 
 #u3057-4
 {
-	z-index: 153;
+	z-index: 156;
 	width: 348px;
 	min-height: 43px;
 	background-color: transparent;
@@ -677,7 +688,7 @@
 
 #u2146
 {
-	z-index: 25;
+	z-index: 28;
 	width: 64px;
 	height: 161px;
 	border-style: none;
@@ -687,7 +698,7 @@
 	-ms-transform: matrix(0,-1,1,0,-49,113);
 	transform: matrix(0,-1,1,0,-49,113);
 	margin-left: 158px;
-	margin-top: 117px;
+	margin-top: 142px;
 	margin-bottom: -49px;
 	position: relative;
 	background: #FFFFFF url("../../images/arrows-mn_arrow_right.png") no-repeat center center;
@@ -698,7 +709,7 @@
 	width: 64px;
 	height: 161px;
 	min-height: 0px;
-	margin: 117px 0px -49px 158px;
+	margin: 142px 0px -49px 158px;
 	background: #EDEDED url("../../images/arrows-mn_arrow_right.png") no-repeat center center;
 }
 
@@ -707,7 +718,7 @@
 	width: 64px;
 	height: 161px;
 	min-height: 0px;
-	margin: 117px 0px -49px 158px;
+	margin: 142px 0px -49px 158px;
 	background: #F7F7F7 url("../../images/arrows-mn_arrow_right.png") no-repeat center center;
 }
 
@@ -720,11 +731,11 @@
 #u2145
 {
 	z-index: 2;
-	min-height: 253.75px;
+	min-height: 218.75px;
 	padding: 66px 27px 127.25px 28px;
 }
 
-#u1783-4
+#u1783-3
 {
 	z-index: 3;
 	width: 325px;
@@ -734,7 +745,7 @@
 
 #u1784-15
 {
-	z-index: 7;
+	z-index: 6;
 	width: 325px;
 	min-height: 32px;
 	left: -1px;
@@ -744,17 +755,35 @@
 #u2145-bw
 {
 	z-index: 2;
-	min-height: 253.75px;
+	min-height: 218.75px;
 }
 
 #u1786
 {
-	z-index: 23;
+	z-index: 22;
 	height: 39px;
 	width: 38px;
 	margin-right: -10000px;
-	margin-top: 374px;
+	margin-top: 339px;
 	left: 152px;
+}
+
+#u3646
+{
+	z-index: 24;
+	width: 239px;
+	margin-right: -10000px;
+	margin-top: 66px;
+	left: 114px;
+}
+
+#u3649
+{
+	z-index: 26;
+	width: 86px;
+	margin-right: -10000px;
+	margin-top: 66px;
+	left: 28px;
 }
 
 body
